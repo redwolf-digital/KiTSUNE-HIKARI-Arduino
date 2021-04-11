@@ -1,4 +1,4 @@
 # KiSUNE-HIKARI 🦊
 
-**for developers**  
+***for developers***  
 base on Arduino or Atmega238P
